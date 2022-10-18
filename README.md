@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ashley Mariam Thomas</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Know more......</h3>
 <img align="right" width="400" src="https://t4.ftcdn.net/jpg/03/14/06/67/360_F_314066785_uAOxjZqdroS7cliA0AXdpkDMx2HcCpUw.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleyth0mas&label=Profile%20views&color=0e75b6&style=flat" alt="ashleyth0mas" /> </p>
 
