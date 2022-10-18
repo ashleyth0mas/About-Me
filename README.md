@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashley Mariam Thomas</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
+<img align="right" width="400" src="https://images.app.goo.gl/CnWyreLJ9j64D9FL6">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleyth0mas&label=Profile%20views&color=0e75b6&style=flat" alt="ashleyth0mas" /> </p>
 
 - 👨‍💻 I am a student at **Model Engineering College pursuing B-Tech in Computer Science**
