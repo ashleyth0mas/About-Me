@@ -1,10 +1,9 @@
 ### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Ashley Mariam Thomas</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleyth0mas&label=Profile%20views&color=0e75b6&style=flat" alt="ashleyth0mas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashleyth0mas" alt="ashleyth0mas" /></a> </p>
 
 - 👨‍💻 I am a student at **Model Engineering College pursuing B-Tech in Computer Science**
 
