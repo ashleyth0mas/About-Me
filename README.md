@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashley Mariam Thomas</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fworkplace-a-programmer-a-girl-at-a-laptop-vector-37531620&psig=AOvVaw3zo602TlP_UbTe_GnMcPtE&ust=1666202714762000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNjR7fmu6voCFQAAAAAdAAAAABAO">
+<img align="right" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/16/20/workplace-a-programmer-a-girl-at-a-laptop-vector-37531620.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleyth0mas&label=Profile%20views&color=0e75b6&style=flat" alt="ashleyth0mas" /> </p>
 
 - 👨‍💻 I am a student at **Model Engineering College pursuing B-Tech in Computer Science**
